@@ -66,7 +66,7 @@ DailyPulse is designed with mental health awareness in mind. The app features:
 ![Analytics Dashboard](screenshots/analytics_screen.jpg)
 *Visual analytics with pie charts and mood insights*
 
-![Calendar View](screenshots/calendar_screen.jpg)
+![Calendar View](screenshots/calender_screen.jpg)
 *Calendar integration showing mood entries by date*
 
 
