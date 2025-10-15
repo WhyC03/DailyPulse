@@ -50,28 +50,25 @@ DailyPulse is designed with mental health awareness in mind. The app features:
 ## 📱 Screenshots
 
 ### Authentication Screens
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/login_screen.jpg)
 *Clean login interface with email/password authentication*
 
-![Signup Screen](screenshots/signup_screen.png)
+![Signup Screen](screenshots/signup_screen.jpg)
 *User registration with form validation*
 
 ### Mood Tracking Features
-![Add Mood Screen](screenshots/add_mood_screen.png)
+![Add Mood Screen](screenshots/add_mood_screen.jpg)
 *Intuitive emoji selection with 24 mood options and note input*
 
-![Mood History](screenshots/mood_history_screen.png)
+![Mood History](screenshots/mood_history_screen.jpg)
 *Chronological list of all mood entries with dates and notes*
 
-![Analytics Dashboard](screenshots/analytics_screen.png)
+![Analytics Dashboard](screenshots/analytics_screen.jpg)
 *Visual analytics with pie charts and mood insights*
 
-![Calendar View](screenshots/calendar_screen.png)
+![Calendar View](screenshots/calendar_screen.jpg)
 *Calendar integration showing mood entries by date*
 
-### Dark Mode
-![Dark Mode Interface](screenshots/dark_mode_screen.png)
-*Beautiful dark theme with consistent styling*
 
 ## 🚀 Getting Started
 
